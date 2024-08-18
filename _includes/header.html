@@ -15,7 +15,12 @@
             {% assign page_link = "/" | append: page.name | downcase %}
           {% endif %}
           {% assign page_link = page_link | absolute_url %}
-          <a class="page-link" href="{{ page_link }}">
+          <!-- CV 링크일 때만 target="_blank" 추가 -->
+          {% if page.name == "CV" %}
+            <a class="page-link" href="{{ page_link }}" target="_blank">
+          {% else %}
+            <a class="page-link" href="{{ page_link }}">
+          {% endif %}
             {{ page.name }}
           </a>
         {% endfor %}
