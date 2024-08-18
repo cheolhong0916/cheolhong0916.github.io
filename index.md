@@ -3,7 +3,6 @@ layout: home
 profile_picture:
   src: /assets/img/profile.jpg
   alt: website picture
-  style: "width: 400px; height: auto;"
 ---
 
 <p>
