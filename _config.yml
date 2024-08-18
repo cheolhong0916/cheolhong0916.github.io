@@ -13,6 +13,8 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: CV
+      slug: /assets/cv_240819.pdf
     - name: Publications
       slug: /publications
 
