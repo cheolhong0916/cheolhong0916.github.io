@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  I am a Ph.D student in the depart of Computer Science and Engineering at <a href="https://jaesik.info/lab">VGI Lab.</a> at <a href="https://www.snu.ac.kr/">Seoul National University</a> advised by Prof. <a href="https://jaesik.info/">Jaesik Park</a>. My research interests are mainly embodied AI, computer vision, and multi modal.
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+  I received a M.S. degree in Altificial Intelligence from <a href="https://www.yonsei.ac.kr/sc/index.jsp">Yonsei University</a> under the supervision of Prof. <a href="https://ppolon.github.io/">Jonghyun Choi</a>. I graduated from the same university with B.S. degrees in Nanoscience and Engineering, and Electrical and Electronic Engineering.
 </p>
