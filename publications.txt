@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <!-- Primary Meta Tags -->
+    <title>Cheolhong Min (민철홍) | Publications</title>
+    <meta name="title" content="Cheolhong Min (민철홍) | Publications"/>
+    <meta name="description" content="Welcome to my personal website."/>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:site_name" content="Cheolhong Min (민철홍) | Publications"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://localhost:4000/publications"/>
+    <meta property="og:title" content="Cheolhong Min (민철홍) | Publications"/>
+    <meta property="og:description" content="Welcome to my personal website."/>
+    <meta property="og:image" content="http://localhost:4000/assets/img/profile-pic.jpg"/>
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image"/>
+    <meta property="twitter:url" content="http://localhost:4000/publications"/>
+    <meta property="twitter:title" content="Cheolhong Min (민철홍) | Publications"/>
+    <meta property="twitter:description" content="Welcome to my personal website."/>
+    <meta property="twitter:image" content="http://localhost:4000/assets/img/profile-pic.jpg"/>
+
+    <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css"/>
+    <link rel="canonical" href="http://localhost:4000/publications"/>
+    <link rel="shortcut icon" href="http://localhost:4000/favicon.ico" type="image/x-icon"/>
+
+    <!-- Google Analytics -->
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', "UA-121636368-3", "auto");
+      ga('send', "pageview");
+    </script>
+    <script async src="https://www.google-analytics.com/analytics.js"></script>
+  </head>
+
+  <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <a class="site-title" href="http://localhost:4000/">
+          Cheolhong Min (민철홍)
+        </a>
+
+        <nav class="site-nav">
+          <a href="#" class="menu-icon"></a>
+          <div class="menu">
+            <a class="page-link" href="http://localhost:4000/">Home</a>
+            <a class="page-link" href="http://localhost:4000/blog">Blog</a>
+            <a class="page-link" href="http://localhost:4000/publications">Publications</a>
+          </div>
+        </nav>
+      </div>
+    </header>
+
+    <div class="page-content">
+      <div class="wrapper">
+        <h1 class="page-heading">My Publications</h1>
+        <p>Here are some of my recent publications:</p>
+
+        <div class="publication">
+          <div style="display: flex; align-items: center;">
+            <img src="images/realfred.png" alt="Publication Image" style="width: 150px; margin-right: 20px;">
+            <div>
+              <strong>ReALFRED: An Embodied Instruction Following Benchmark in Photo-Realistic Environments</strong><br>
+              Taewoong Kim*, <strong>Cheolhong Min*</strong>, Byeonghwi Kim, Jinyeon Kim, Wonje Jeung, Jonghyun Choi<br>
+              <em>ECCV 2024</em><br>
+              <a href="#">pdf</a> | <a href="#">bibtex</a> | <a href="#">code</a>
+            </div>
+          </div>
+        </div>
+
+        <div class="publication" style="margin-top: 20px;">
+          <div style="display: flex; align-items: center;">
+            <img src="images/capeam.png" alt="Publication Image" style="width: 150px; margin-right: 20px;">
+            <div>
+              <strong>Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents</strong><br>
+              Byeonghwi Kim, Jinyeon Kim, Yuyeong Kim, <strong>Cheolhong Min*</strong>, Jonghyun Choi<br>
+              <em>ICCV 2023</em><br>
+              <em>1st Place in Generalist Language Grounding Agents Challenge (CVPRW'23)</em><br>
+              <a href="#">pdf</a> | <a href="#">bibtex</a> | <a href="#">code</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <div class="footer-col-wrapper">
+          <div class="footer-col footer-col-1">
+            <h4>CONTACT</h4>
+            <div class="social-links">
+              <div class="social-link contact-links">
+                <img src="http://localhost:4000/assets/img/icons/email.png" alt="email" />
+                <span data-resu="6190gnohloehc" data-eman-niamod="liamg" data-dlt-niamod="moc" id="email-link" class="link email-link-cloaked">Email</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="footer-col footer-col-2">
+            <h4>FOLLOW</h4>
+            <div class="social-links follow-links">
+              <div class="social-link">
+                <img src="http://localhost:4000/assets/img/icons/linkedin.png" alt="linkedin" />
+                <a href="http://linkedin.com/in/YourLinkedInUsername">LinkedIn</a>
+              </div>
+              <div class="social-link">
+                <img src="http://localhost:4000/assets/img/icons/github.png" alt="github" />
+                <a href="http://github.com/cheolhong0916">GitHub</a>
+              </div>
+            </div>
+          </div>
+
+          <div class="footer-col footer-col-3 powered-by">
+            <p>powered by <a href="https://github.com/eliottvincent/bay">Bay</a> | <span id="year"></span></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script type="text/javascript" src="http://localhost:4000/assets/js/vendor/cash-4.1.5.min.js"></script>
+    <script type="text/javascript" src="http://localhost:4000/assets/js/site.js"></script>
+  </body>
+</html>
