@@ -14,7 +14,7 @@ header:
     - name: Home
       slug: /
     - name: CV
-      slug: /assets/cv_240819.pdf
+      slug: /assets/CV_240912.pdf
     - name: Publications
       slug: /publications
 
