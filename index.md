@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  I am a Ph.D. student in the department of Computer Science and Engineering at <a href="https://jaesik.info/lab">VGI Lab.</a> at <a href="https://www.snu.ac.kr/">Seoul National University</a> advised by Prof. <a href="https://jaesik.info/">Jaesik Park</a>. My research interests are mainly embodied AI, computer vision, and multi-modal AI.
+  I am a Ph.D. student in the department of Computer Science and Engineering at <a href="https://jaesik.info/lab">VGI Lab.</a> at <a href="https://www.snu.ac.kr/">Seoul National University</a> advised by Prof. <a href="https://jaesik.info/">Jaesik Park</a>. My research interests are mainly Embodied AI, VLM, Robotics, and Computer Vision.
 </p>
 
 <p>
